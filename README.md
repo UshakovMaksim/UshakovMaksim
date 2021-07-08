@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UshakovMaksim
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently code with Angular
 - 📫 You can reach me by e-mail ushakov.m (at) hotmail.com
 
 <!---
